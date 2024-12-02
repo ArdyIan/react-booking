@@ -19,7 +19,7 @@ const Home = () => {
         <h1 className="homeTitle">Home Quests Love</h1>
         <FeaturedProperties />
         <MailList />
-        <Footer/>
+        <Footer />
       </div>
     </div>
   );
